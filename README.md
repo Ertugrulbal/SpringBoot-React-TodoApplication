@@ -1,14 +1,14 @@
-# ToDoList App
+# ToDoList App for JForce
 
 ### Overview
-Todo list application that can create, read, update, delete, and mark completed. This application also implement filtering and pagination. Front end is developed using react and backend is developed using spring boot.
+Todo list application that can create, read, update, delete, and mark completed. This application also implement filtering and pagination. Front end is developed using react and backend is developed using spring boot. Also we used databse connection with PostgreSQL. 
 
 ### How to Run Application
 
 1. Install node to run react app (frontend) and maven to run spring boot app (backend).
-2. In /frontend directory, run the application
+2. In /Front-end directory, run the application
 
-`cd /frontend`
+`cd /Front-end`
 
 `npm run production`
 
