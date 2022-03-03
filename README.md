@@ -1,4 +1,4 @@
-# ToDoList App for JForce
+# ToDoList App 
 
 ### Overview
 Todo list application that can create, read, update, delete, and mark completed. This application also implement filtering and pagination. Front end is developed using react and backend is developed using spring boot. Also we used databse connection with PostgreSQL. 
